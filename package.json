@@ -1,0 +1,22 @@
+{
+  "name": "debil.js",
+  "version": "0.1.0",
+  "description": "Debil.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTalon63/Debil.js.git"
+  },
+  "keywords": [
+    "debil"
+  ],
+  "author": "mrtalon63 <marcin@mczop.co.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrTalon63/Debil.js/issues"
+  },
+  "homepage": "https://github.com/MrTalon63/Debil.js#readme"
+}
